@@ -1,0 +1,56 @@
+{
+  "sections": [
+    {
+      "id": "intro",
+      "data": [
+        {
+          "tier": 1,
+          "exercises": [
+            {
+              "id": "1",
+              "learner": {
+                "level": 5,
+                "lesson": 3,
+                "isCompleted": true
+              },
+              "definition": {
+                "name": "Level 4",
+                "levels": 100,
+                "lessons": 3,
+                "picture": "basics.png"
+              },
+              "questions": {
+                "q1": {
+                  "question": "I love dogs .",
+                  "words": [
+                    { "id": "1", "word": "Malai" },
+                    { "id": "8", "word": "Biralo" },
+                    { "id": "2", "word": "Timilai" },
+                    { "id": "7", "word": "Kukur" },
+                    { "id": "6", "word": "Kossss" },
+                    { "id": "9", "word": "Manparcha" },
+                    { "id": "5", "word": "Maya" }
+                  ],
+                  "answer": ["Malai", "Kukur", "Manparcha"]
+                },
+                "q2": {
+                  "question": "A man, a woman",
+                  "words": [
+                    { "id": "1", "word": "oğlan" },
+                    { "id": "8", "word": "kadın" },
+                    { "id": "2", "word": "bir" },
+                    { "id": "7", "word": "adam" },
+                    { "id": "6", "word": "elma" },
+                    { "id": "9", "word": "ben" },
+                    { "id": "5", "word": "Bir" }
+                  ],
+                  "answer": ["Bir", "adam", "bir", "kadın"]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
